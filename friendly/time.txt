@@ -1,0 +1,1 @@
+./hello.x < friendly.in > output.txt  98.81s user 0.44s system 98% cpu 1:40.29 total
